@@ -1,0 +1,593 @@
+8666482 Setup Respect Ren's Blog
+f9ae805 clean up
+f69d56d *
+34035f5 Add Webrick For Ruby3
+61b4369 npm audit fix
+9f52bae use github avatar
+b678da5 *
+45b7e95 Update README
+5bde343 Update README.md
+974750e Update README.md
+559a643 fix depedent bot
+390922f *
+ebe9115 *
+dea7c4f *
+e984ef9 [self] *
+3d03106 [self]
+cab4f7c [self] *
+e814ac2 [self] post
+e462d51 [self] *
+b1d823b Update data-rep-float
+40a490e *
+4806b17 [self] amend
+fbe549e [self] post
+e44afc5 Add user docs
+c33fd80 Add rake in Gemfile
+0ff205f Add Rakefile for post creation
+916a39f [self]
+be8798d [post] datarep-int
+c6f63cd [v1.9] make catalog default on
+1726e58 disable fuzzy
+49025e6 [v1.9] optimize search transition
+1ef4318 [v1.9] html decode ondemand
+3e97c55 [v1.9] happy hacking...
+c5120cd minor fix on search-input
+83edb63 rename doc hopefully solve the build issue
+a19be51 grunt & format
+c9acbc7 grunt
+4c4eea7 [v1.9] drop search text
+6944dec [v1.9] refactor css/search
+53ce25c testing search
+e96a90b [doc]
+1ed1e44 [v1.9] Rearrange docs
+90fd8fa Merge branch 'fxm5547-add-search-feature'
+71516db [v1.9] using bundle exec in package.json
+a57d203 [v1.9] merge with search PR
+d83742d fix: add a missing '</div>' tag in archive
+7904f01 Bump websocket-extensions from 0.1.3 to 0.1.4
+fa35e49 [self] *about
+87a2730 move script into footer to have $ access
+0d34def [self] bugfix
+95f5b60 [self] resizable
+e37daef [self] quick fix
+f3a9d67 [self] testing
+e409131 Fix typo
+2aaa36c Link for now
+e28cf2d Experimental new PL chart
+5cc3783 Merge branch 'master' of github.com:Huxpro/huxpro.github.io
+3d03711 [v1.8.2] bugfixes
+eccbb3d Merge pull request #336 from JinsYin/patch-3
+5d3d514 Add an end tag
+dad59c2 [self] update about
+295f175 [self] update
+0595cbc [self] update about
+2455dc5 [newpost] latin
+7062e65 [self][less]
+e713acd [less] tweak
+7f78120 [less] tweaking header to _drop_ style
+bb1cab6 [self] drop hr above h2
+ec0fef8 [less] smaller header on mobile; make anchor visble on hover
+b9024a0 [self] update
+a6a16b8 [self] update
+3a76c67 [less] thinner code linenum column
+f3834bd [self] fix weibo url
+ea90bb3 [self] batch processing
+35588da [self] massive renaming
+ff08aab [self] post vim-from-finder
+02b4fb0 [self] update
+1540526 [self][multi-lingual]
+975fa6a [1.8.2] remove portfolio
+9b56505 [self] improve Coq-math-symbol highlight
+77e4025 [self] update
+9a933a0 [self] update
+806988f [self][experiemental] add READ_SF notes via build script
+af660dc [v1.8.1] Improve Multi-lingal & Update README
+09af5da [self] update about
+7ee100c cleanup package.json
+3a4bf1c [self] update
+c6f2cec [self] update table
+d287bd0 [self] adding PL spectrum and table margin-top
+5566073 Fixed #259
+29548bf Update 2015-06-15-alitrip-strategy.markdown
+f3e311b [self] fixed typo
+8f7b3e6 [self]
+33173f1 [fix] .gitignore is now working
+4441795 [self] update yaml for en-post
+566f224 [self] new post, experimenting long truncate for en
+23d09d4 [v1.8.1][self] header-style:text; smaller font on mobile
+880e186 [fix #260] Add default color for nil-lang code
+90bc69d [bugfix] revert tag change; typo
+14b3999 [bugfix] extra <a>; archive tag focus; iOS X landscape viewport
+72f1246 [bugfix] img-credit guards, line-height, anchor
+2fef4c6 [v1.8][self] mathJax SVG, img-credit, update posts
+e0649ca [bugfix] featured-tags sorted by size etc.
+14c2a64 [self]
+11c0a40 [self] add farewell-flash.md
+7eed4b2 [v1.8] full-width code block in mobile
+3958282 [self] migrate zhihu post to blog test (will do more)
+bf1be70 [v1.8] add release note; update footer
+3b8cdd5 [bugfix] code block wrap problem on iOS Safari, thx @SmilingParadise at Sina Weibo
+ff66f4a [v1.8] brand new archive and tag
+db74e46 [self] update tags
+17d6ca6 [v1.8] thanks to #74, extract duplicated partials
+9425296 [self] rename tags
+8476799 [v1.7.3][Buggy] add lineno / new theme to code block
+6242a67 [v1.7.3] change mathJax CDN; turn off SW.
+663a3a2 Merge branch 'master' into pr-80
+8248396 Merge branch 'master' of github.com:Huxpro/huxpro.github.io
+24fe170 [v1.7.2] add official archive support
+8c512a3 Merge pull request #253 from Android-KitKat/master
+8a7dc7e Update Open Graph protocol support
+5519580 Add Open Graph protocol support
+8208ce8 Update _config.yml
+f27d55f [self] update
+b1ad200 [self] update
+55cdee8 Add timezone in config but comment out; Close #68
+abaf2c4 fixes #123
+9782dd9 merged
+ca5fea3 Fixed jekyll-liquid syntax warning; Update
+79fd391 Merge pull request #174 from 9aoyang/master
+80e1699 Merge pull request #175 from Dafrok/master
+94e6eab Merge pull request #195 from yzgyyang/patch-1
+6aa27bb Merge pull request #199 from yzgyyang/patch-2
+098880c Merge pull request #211 from itsjzt/patch-1
+177bbc3 Merge pull request #209 from Sundrops/patch-1
+2eded9b Merge pull request #225 from lsdlinshunda/master
+22f0f23 Update _config.yml
+6c85cab [bugfix] fix bug for catalog
+6e4a1de fixed markdown typo on 1st and 2nd line of REAME.md
+1186772 Update _config.yml
+3271705 Deprecate gems configuration option to use plugins
+871a91e Fix a typo
+9762dc9 [self] update about-bg
+bf50cca [v1.7.2] experimenting multilingual ppost
+d187e9f [self] update personal info
+2ea97c6 [self] hotfix css
+a17f17d [self] hotfix css
+7d2bc4a [self] update portfolio
+fbca0c5 [self] update profile
+e07a989 [self] Update posts and styles
+15209c3 更正链接地址
+baba56f [self] fixed typo
+13d086d [self] fixed typo
+5c5aa53 [self] update post: eleme-pwa
+d039289 [self] add post upgrading eleme to pwa
+65e0255 [self] add post upgrading eleme to pwa
+e57e02d [sw] proxy with cache-first to ys.static
+3a555da [self] update avatars
+fac3fa9 [self] fixed mal-formed link in about
+ba90505 [self] update & test
+e97ea15 merge v1.7.1-sw
+a865221 [v.1.7.1] delete duoshuo-related code
+59c4d99 [self] update talks in about/zh; test sw
+d9336dd [v1.7.1] Feature: Show snackbar after SW revalidating posts via postMsg
+56fd4ff [v1.7.1] delete Duoshuo related code
+6ac16f9 Merge branch 'master' into v1.7.1-sw
+511972c [sw] cleanning up deprecated, un-namespaced caches to prevent dead caches
+02a5b8b [post] wrong word
+f0a3f43 [self] update posts
+1d8f12b [self] post you-are-slaves
+6deec6b [self] fixed qcon link in about
+da9843e Fixed: Rename Cache Name to prevent potential mis-deletion from other apps
+8b4cb09 [test] netease comments
+da72417 [test] netease comments
+5855739 [self] update zh.md
+4d83937 [bugfix] safari inline elemens word-break; re-build
+b1b9ce8 [self] include .md for about; update config/avatar
+cb57a50 [self] open disqus for real-domain testing
+54ef1cc [self] update about
+e22dea1 [self] update post next-gen-pwa
+be5d22a [self] update portfolio 'talks' layout
+512c3dc [self] update portfolio page, play with style
+afddbb7 [self] update avatar; fix typo
+07ad64c [self] compressing images
+78c9514 [self] new post: nextgen-web-pwa
+360cdb8 Merge branch 'master' of github.com:Huxpro/huxpro.github.io
+d3572f9 [self] add bg gradient for portfolio
+a3ecc43 stash
+e40e57e [hotfix] wrong comments position. From Phone
+10057ea [v1.7 & Self] Add BlinkMacSystemFont & Update CSS-sucks-2015
+2978c14 [comments] explaining data-thread-id
+4bcfb75 [self] change all qrcodes in slides hidden on mobile; add sw-101-gdgdf
+64cda71 [v1.7-pwa] Fixed SW redirect subres -> gh 404s
+8d43252 [self] update pwa-qcon subtitle back to great again
+08e1904 [self] fixed typo
+8f2d8b2 [self] tuning sel-lang font-size
+1c74e0b [self] Update about-des at config
+abeb395 [self] Update Motto
+51c9ced [self] content update
+27fdf28 [self] tested well. Comments are added
+8989cf9 [self] f*ck...Im always be conceit
+5e1c6ca [self] f*ck...Im always be conceit
+4c355aa [self] Fixed SW Redirect URL with query, update about
+e728531 [v1.7] select style extent to all screen-size
+ada8918 [hotfix] Star Unbelivably Exceed 1000; Extend the gh-btns iframe
+7729ed8 [sw] Ended Up with redirecting myself. Kinda Neat
+4bb4180 [self] Unresponsiblie SW Test...please
+e5d4a3b [self] style tweaking for sel-lang
+3094070 [self] Fixed SW forgeting checking res.ok status
+94243c3 [self] fixed slides link in pwa-qcon2016 post
+b62c203 [self] update pwa-qcon2016 slides' subtitle
+50f9f0f [self] fixed qcon2016 talk URL
+6cbf080 [self] Update Avatar
+f2bb4de [self] Update Avatar
+84bdcbd [self] update portfolio - yanshuo.io
+3704501 [self] publish pwa-qcon2016 talks
+7ffd55b [test] try to workaround sw-mixed-content issue
+c78a513 [Test] test fetch API redirect-mode
+7b469bb [self] fixed broken links
+3f8b813 [hotfix] change invert-color lighter
+38ebabb [v1.7] add navcolor: invert feature to keynote layout for light-color bg
+e9fb6e9 [hotfix] forget to hide hr...hmm...shame on me.
+bce5923 [v1.7] forget fixing duoshuo-share leaking at keynote.html & clean up
+1176424 [v1.7] increase version num
+998c0f7 [self] add log for iframe testing, which must be test under same origin.
+d551d2e [v1.7] make serviceWorker optional/configurable
+cbf0cce [v1.7] fixed DuoShuo Share leaked out when offline. (Duoshuo used JSONP and dont support CORS which prevent sw from fetching it cross origin
+f0f007a [v1.7] precache offline.html for navigation fallback
+af7a331 [v1.7] basic service worker & offline support
+209a8e7 [v1.7] add manifest & icons
+2498dcf [v1.7] add chrome-exclusive-meta theme-color & config
+3901eb0 [self] update about.html. test CDN caching
+dec2738 [bugfix] fix <select> unexpected height at latest Chrome
+9f7f1bd Merge branch 'master' of github.com:Huxpro/huxpro.github.io
+bb586fd [self] fix some Mixed Content for HTTPS.
+30d044f Merge pull request #90 from yorbit/patch-1
+cd308a9 [v1.6] change cdn to cdnjs for better HTTPS support
+78cd9ab [self] cleaning resumes
+df03bbc [self] fixed invalid link
+58552db [self] update license.
+130bb08 Merge branch 'master' of github.com:Huxpro/huxpro.github.io
+f4c122b [self] refine about me#en words
+fa4bcb1 Update README.md
+79f9fce [Self] Update README.md for Porting section
+6a5ecf2 add friends Su & Midare
+3bbdc59 a small translate alter
+5f34b84 [self] new slides PWA; update profile and several posts
+a8fad40 [fix] mata tag keyword should be keywords
+4d5f091 Merge branch 'master' of github.com:Huxpro/huxpro.github.io
+3b41a0e [self] fixed wrong title of post js-module-loader
+cae171b Add MathJax support
+e987cef Merge remote-tracking branch 'Huxpro/master'
+a4ae059 Merge pull request #73 from Kaijun/master
+66db488 fix url of jquery.cloud.js when hosted under subdirectory
+3bed1e8 add support of linkedin link
+e845cbf [v1.6] elevate catalog fixed position
+df626e0 [self] improve many of my posts' code-language-mark
+c5bd860 [v1.6 & jekyll 3.0] drop highlight.js and embrace native highlighting. Fixed that tags at footer dont support site.baseurl
+481941e [jekyll 3.0 support] fixed issue that commented {{content}} show at tag-page when local preview
+8869b55 [v1.6] fixed catalog style, employ catalog widely
+1d474f0 [hotfix] jquery only support limited easing function
+378aae0 [v1.6] fix conflict manually
+3c454c3 [v1.6] side-catalog feature: clean up and build
+f6a3d33 [v1.6] toggle side-catalog
+ebb9bec [v1.6] fork jq.nav to support padding; tweak UI to match theme; fixed bugs, drop needless and improve usability; Also change name to catalog
+1d07b11 Merge branch 'master' of github.com:Huxpro/huxpro.github.io
+967ae37 fixed #50: sidebar links invalid
+c853e0c directory for posts
+16fa5fc [self] add some of friends' site
+8eb1cd6 Merge pull request #44 from BruceZhaoR/master
+5a20003 update for jekyll 3.x
+83df8ee Merge pull request #1 from Huxpro/master
+3d5ecad [self] {{}} must warpped in Liquid {% raw %}
+af524d9 [self] update post: React vs Angular2
+8b46dab [README] about page build warning email
+b29a8a7 [self] new post: React vs Angular2
+eeeb96c [v1.6 beta] add header-mask support, finally!
+0116190 [self] fixed style of about-page
+85704a4 use rough for highlighter instead. suppress page build warning
+34c92fd Merge branch 'master' of github.com:Huxpro/huxpro.github.io
+9121a08 add license banner in minified file
+d5cf802 Merge pull request #43 from Huxpro/revert-42-revert-41-master
+5aa115a Revert "last commit cause Page build warning"
+aac62c2 Merge pull request #42 from Huxpro/revert-41-master
+505f5eb Revert "Jekyll升级3.0本地无法预览解决方案"
+7936a61 Merge pull request #41 from voleking/master
+87ed80d Jekyll升级3.0本地无法预览解决方案
+c2c04f5 Update README.zh.md. Customization Part.
+c2eba54 Merge pull request #34 from BruceZhaoR/master
+b071a32 修改了部分语句不通的地方
+198b41e add zh README
+6be781a [v1.6 beta] forgot update keynote layout...(I say what?
+30cfad9 [v1.6 beta] pager display title instead of tooltips , improve nav & style, fastClick global
+130f244 [v1.6 alpha] all right, I thought this is final fixed
+b464bf8 [v1.6 alpha] there is always a hotfix when test broken..
+e231283 Merge branch 'master' of github.com:Huxpro/huxpro.github.io
+7611ff0 [v1.6 alpha] enhance navbar a lot, both function and animation
+73e5d31 Merge pull request #30 from ebnbin/master
+a166a5e Add me to your friends
+9249f34 add site.baseurl support
+1cb3b64 Merge branch 'patch-1' of https://github.com/oldratlee/huxpro.github.io into oldratlee-patch-1
+cb6bd8c [fixed] issue #29
+795dfa4 favicon.ico使用绝对路径
+1e233f9 [self] update about-page
+16a1d49 [self] move slides to blog: css-sucks-2015
+17f5a08 [self] hotfixed style
+899a145 [self] fixed portfolio-page link style
+05f70b8 [self] update in-post img of open-source license
+c45c0e2 [self] fixed attach and drop comments in tags/
+4c33221 [self] update about-bg
+3d612a7 update posts, fixed typo: iOS9-Web
+260e91e [self] update post
+d3d82ac new post: how-designer-learn-fe, transport from zhihu
+8d30b30 [self] update scripts
+bccb1ab [self] fixed details of post ios9-web
+df18b73 replace forcify img to iframe
+57079b8 [self] update post: ios9-web
+2256486 [self] add own-use scripts to package.json
+3c97f76 update package.json
+39012a6 ios9-web done
+010ae78 clean up
+8f91737 update package.json
+9049e6d [self] fixed portfolio style
+a584318 [self] add duoshuo_comment to portfolio
+df79b8e update portfolio/alitrip
+5a64777 update avatar-hux
+a962401 add anchor to portfolio
+5d03cba hotfix: zh-lan by default
+2fb35cb update about
+be116b7 update portfolio
+00ba507 V1.5.2 released
+a1b6468 improve code>pre style to fixed issue#15
+1b9a757 emphasize view-link
+2537f6f delete push.sh
+6d3632a ignore *.sh
+9d3ec58 fixed boilerplate part
+9aaf57d update README for boilerplate
+4cad95a optimize
+94f89b1 Merge branch 'insta-theming-portfolio'
+9bf314e add time
+d1de300 amazing moves! soooo nice this new theme
+dea7397 clean up css
+1f3835e prototype success
+7c8daf9 use -apple-system font, clean up portfolio
+f03b3ae rename YF
+99f9ce0 add Friends DH & YF
+41822a1 rename to journey but keep the URL
+ed845ca add thanks
+96f67a5 v1.5.1 released, update README
+baf44d2 merge from rpsh pull-request, add disqus
+423c591 little fixed
+a382402 hotfix
+930c9cc improve tag style
+a953ef4 fixed tags generated aren't support baseurl
+01f85e8 [+] Add Disqus comment widget
+70c6387 fixed issue#12, baseurl not work
+f58bc42 [+] 添加 disqus 评论
+02684b0 add google-site-verification
+4acf88e fixed configuration, drop hacking
+062463c add 404.html
+9cd10c4 fixed keynote-page comment bugs
+1258432 recover comments in about
+34c73ac update old post
+4ad2628 add npm scripts preview which support preview from mobile
+ba77bbb fixed typo
+ecf7753 V1.5 Released, Document updated
+a36f8d8 make Duoshuo/Analytics configurable, fixed about-page Duoshuo thread-key missing, add GA and Drop QQ Analytics, ready to update documents
+2c606a8 add friend xieminis.me
+c64531b fix keynote-layout missing v1.4 update
+fac1acc fixed typo
+9848cd2 fixed pager style
+b7aa13a v1.4 release, details in README
+1155b3d fixed Grid System, draw out side-container from post-container
+0ef43b0 improve style for header1-6 in post, update README
+5835e7f drop shareTitle, shareAccountName can set in DuoShuo
+9625209 add shareTitle, use SEOTitle
+7d11129 add SEOTitle, move keyword to config
+c7df875 change ghbtns to star from fork, seeing fork will link to 404 if un-login
+0b6dc7d font-family big improve
+d1330b7 hotfix: mobile style attack desktop
+4f93792 improve English in README
+6e1fdef add width attr to gif-img
+533ec31 add little remark, emphasize android effect
+4e6d631 V1.3 Release, new nav-menu with awesome md motions
+0378642 update README, not sure if github support <video>
+62f4ae3 fixed overflow issue & mask issue
+8dd4cc8 remove touch-listener seeing 300ms delay, use FastClick via CDN. solve height issue by waiting for animation in js
+c0d54dd add touchstart event listener
+dfe059f new navbar with material-design motion, drop bootstrap-navbar-collapse
+cb4660a use ghbtns with fork counts footer!
+5954b5b fixed typo
+2ce8a53 add catalog & header-image to README.md
+2db5e6e fixed naive English used
+0c80ae2 fixed typo...img extension miss
+af54147 V1.2, release keynote layout
+fd79dd6 decrease font-weight of header from 800 to bold to optimize display in windows
+a68bccc change 86% percent to -85px is better, fixed typo
+9cfd0f7 Merge branch 'master' of github.com:Huxpro/huxpro.github.io
+5dca192 fixed issues in mobile, make keynote-layout more friendly
+25d0cc6 Delete 2015-09-16-no-time.markdown
+09104a0 Merge branch 'keynoteLayout'
+5d8625e new old post! & new keynote Layout
+dad0666 update copyright order
+492407f new post! about JavaScript Version
+bb13bdc add a few Util-CSS-Class useful for .md post
+444b7ed improve header typographic detail
+209e3a1 fixed typo
+4e711e3 drop original Header1 font-family, sync with other
+9924e4a fix typo 'feature tags' to 'featured tags'
+f55890e update english slogen
+f2519c6 Friends display in post-page now
+5195727 add friend smdcn
+def4ff7 add --tags push to push.sh
+526288d v1.1 README update. fix style
+def7606 我要爆粗口了……老是写错--
+78cb6d5 add config options of enable anchor.js
+5493c8f fixed sidebar a style
+da619a9 fixed tags href in page.html
+ba65b0f sidebar improve! both display in lg & md, only about hidden under sm, reserve feature-tags
+7bbd0cc Merge branch 'dev-sidebar'
+05b145c sidebar & friends done! which can be used sperately
+afb5881 sidebar initial shape done! fix navbar a:active
+cd769d2 fix typo...always
+808ea7b fixed README header use
+2d640c4 fix typo
+c02a553 update README.md
+ecbb191 Open/close comment by config.yml is supported now
+c30b592 update portfolio-page style
+34eb7b0 sometimes you should use vendor-feature, it's awesome
+82c1f3b bugfix
+6a498f8 async load tagcloud.js only when need, also improve style
+35c851b style bug fixed
+b569ab3 tuning navbar style to balance visual
+6e748b6 add LF in footer
+aab7606 increase navbar-toggle active area
+502f239 tuning style
+d16cfd5 style fix, increase size of navbar
+1f661d7 grunt
+f01a444 materialize lite. done
+2164970 change background, drop hr in header
+b136a67 delete old-post
+b566b29 well..there always many user-agent style need to override
+0d13a81 fix select style
+869e64f about-page support English now. update CV
+6367e75 drop mistake https scheme
+830aa9d bold policy
+7c5a4bb add author/copyright info
+540792a Update README.md
+6c254ef rename
+3b9bf3b fix share
+8994734 fix typo
+ca429e7 new post: alitrip-product
+ba94b5e update 2016_CV
+9b4ef54 upload CV and update about
+c43f110 improve anchor style, 标点外挂 on the big screen
+a48efd7 increase h4 font-size
+fcc33bb tuning subheading font-size
+ac8728b tuning subheading font-size
+206d112 tuning css
+136919f add post-content-preview in Home-Page! the foreword should comes before catalog so the preview will make sense
+e66a472 fix authorjs selector range
+398f59e some script async load
+26f68d9 rebase tag-name, add author-js
+0c1bffa shrink down text
+a7ad748 fix tag-comments font-size
+d751e9f add tag-comments 标签命名规范
+907e1a5 using highlight.js! code get highlighted now!
+9bc7d83 fix catalog issues
+2680ff1 update css
+71d0179 make <code> scrollable
+abeea83 update post: js module loader
+3a5007b use Github Flavored Markdown
+063067c new post: js-module-loader
+9ba2bb9 update about-page
+801e2da modify post: see-u-ali
+9df252e update about.html
+97f6c8c update post: see-u-ali
+224c244 new post: see-u-alibaba
+dec18c3 update about-page
+34b6982 fix link 2 zhihu
+660ab69 update post os-metro
+5fc7b8a update content
+c0ae0cc update content
+6d00025 new post: os-metro
+0000abe improve img shadow use, modify post
+d420740 linux-unix-note content update: android ROM
+a8ee59b add catagory link to post'unix-linux-note', improve css
+cb177cb improve in-post a tag style
+c0b6605 modify post sub-title
+b3c8c3d delete copy
+549bb04 new post : unix-linux-note, update style
+aa0bda1 Images Retina Optimization
+b8dcf08 fix typo
+c5e75b2 tuning style
+6e0d705 add margin, auto-centre and box-shadow for in-post imgs
+866acc8 add img/in-post folder & update _layout & CSS to responsive
+9f62979 new post from zhihu: wechat-block-kuaidi, update paginate
+4701876 fix baseurl
+6a85851 about-page improve
+504cd04 fix typo
+ee7b9b7 fix typo
+3828127 post-date fix & css tuning
+a168953 new post: e2e-ux!
+6c65eed improve Style on mobile!
+6ec9922 tags-heading bugfix
+c91864e tuning tags-page style
+dc89fc7 tuning style
+d549984 test tags-page style
+ede73f6 new post: miui6-ux
+5674dda if mobile, do NOT display share
+109c3ec add duoshuo-share, update site-meta desc & keywords
+9b6e21e typo fix
+d7ffcdc typo fix
+386ae1a fix typo
+7372a04 modify post
+b54e46f new post: Digital Native , nearly 2000 words
+38d5aad  small fix
+0dfa110 try to hack wechat qbrowser transcode, migrate bg-url from inline-css to <style>
+bafff02 add zhihu-ref link
+7bb7875 add favicon.icon to global site
+15edfbd update icon-wechat
+f482338 update icon-wechat
+a6508a2 try to hack weixin in another way
+833fec9 update post-bg-img
+551fb30 new post:apple-event-2015; clear up
+4d5df4f add overflow-x limited in CSS
+402b514 update article
+359d449 compress from 230k to 60k use http://tinypng.com
+2e4db39 update portfolio header test
+11174ee update portfolio avatar
+0979eb7 update about-page
+1d4b62c update baidu and QQ analysis target domain
+d445964 update about-page background!
+3e05bde update portfolio words
+88cc1dd update CV
+1479f3b recall the wrong post
+874f8e9 update works link to huangxuan.me Domain
+8c81ffd update CNAME file
+0e13462 add a CNAME file
+a9fe271 add keywords about lynn
+24180ec update navbar button to more modern style
+e94089b tuning style
+4fd3f7e update style of portfolio-skill-list
+93c2903 update project href to its repos' gh-pages
+a41560d update portfolio & delete works folder but all using project repo gh-pages
+a65b261 add works folder and works/L.esson Demo
+3ee5eff attachment support & update portfolio style and site-info
+86cf63b add Portfolio folder & update details
+fa34483 update post
+a832ab9 bugfix
+e06bf50 继续 test
+eecf4a1 猜测图不够大……醉
+97dfaeb 猜测要 jpg 才会抓
+c0f0af6 update @2x
+49a483d 图片会压缩太难看了，自己做了个icon
+dc9188e add <img>, test to hack wechat sharing
+41d211a tuning tagcloud style! the best one ever
+4b7b82b delete line...under the 'tags' which lynn hate, very much..
+ccd4776 tuning tags style
+93f06fa improve tags-page style a lot && use Chinese CDN
+80f9588 tuning tagcloud style
+1d6d56e update tagcloud Style && to be continue..
+e6ff7b4 add Tags Support! && init Style
+553b097 fix README.md
+8dfac19 Merge branch 'master' of github.com:Huxpro/huxpro.github.io
+acdea61 use <body ontouchstart=> to fix(hack) all :active style in iOS & cleanUp js
+d1af098 Update README.md
+277b96e add push.shell
+ef80b5d add overflow-x : hidden to post/.article to prevent overflow touchmove
+a60c979 fix data-url to Duoshuo & add comment to about
+809cfa7 Customize duoshuo style
+fd70486 fix NPM so i can use Grunt and Less now, Social-Comments feature done: use Duoshuo
+c1d6b4f add TA 腾讯分析
+9bc99ce add tongji.baidu 百度统计
+43aa5df fix blockquote font-size, use em
+1153377 add <meta> description and keyword for SEO
+719f557 fix site-heading subheading font-family
+b4d1b9d fix alitrip link in about-page
+9ed86ae h1 size fixed
+10b97b4 font-size responsive support
+4c762af update Hello 2015 && Optimize font! (family, size, line-height)
+47ef8f4 国内的环境没有办法，只好干掉 Google Fonts，反正其实也是等超时
+b07ffed big update! of both posts and bg-img
+3cd522e update CSS : optimize font-size in Mobile & drip <hr> above footer
+c1bbc35 update about.html
+aa3c8d5 update username && localize footer.html
+b85061d email feature test failed, remove!
+979d076 change email address, test again
+de5f0b3 update home-bg && add Email for test
+652d554 visual test
+338082b update config
+aa12df7 update config
+687ab21 update config
+3c0b6ba init commit
