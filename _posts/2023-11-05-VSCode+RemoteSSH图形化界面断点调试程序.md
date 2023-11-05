@@ -8,7 +8,7 @@ header-style: text
 catalog: true
 tags:
     - VS Code
-    - Remote SSh
+    - Remote SSH
     - debug
 ---
 
